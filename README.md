@@ -12,7 +12,6 @@ You can add more books by clicking the add icon in the bottom right and search b
 Clone the repository and use npm to install the dependencies.
 
 $ git clone https://github.com/Salah-Hatem/MyReads.git
-$ cd reactnd-project-myreads-app
 $ npm install
 
 Run the project with “$ npm start”
